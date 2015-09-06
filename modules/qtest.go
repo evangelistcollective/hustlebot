@@ -2,7 +2,7 @@ package modules
 
 import (
 	"fmt"
-	lazlo "github.com/djosephsen/lazlo/lib"
+	lazlo "github.com/djosephsen/hustlebot/lib"
 )
 
 var QuestionTest = &lazlo.Module{

@@ -1,7 +1,7 @@
 package main
 
 import (
-	lazlo "github.com/djosephsen/lazlo/lib"
+	lazlo "github.com/djosephsen/hustlebot/lib"
 	"os/signal"
 	"syscall"
 )
